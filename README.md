@@ -1,27 +1,25 @@
 # SnapVault
 
-A modern photo delivery platform for photographers and clients.
-
-![SnapVault Dashboard](main-dashboard.png)
+A modern photography client gallery platform for securely organizing, managing, and delivering photo collections to clients.
 
 🔗 **Live Demo:** https://snapvault.base44.app/
 
 ## Screenshots
 
 ### Main Dashboard
-![Main Dashboard](main-dashboard.png)
+[View Main Dashboard](main-dashboard.png)
 
 ### Login Page
-![Login Page](login-page.png)
+[View Login Page](login-page.png)
 
 ### Gallery
-![Gallery](gallery.png)
+[View Gallery](gallery.png)
 
 ### Client Preview
-![Client Preview](client-preview.png)
+[View Client Preview](client-preview.png)
 
 ### Gallery Sharing
-![Gallery Sharing](gallery-sharing.png)
+[View Gallery Sharing](gallery-sharing.png)
 
 ## Features
 
