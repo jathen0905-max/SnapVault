@@ -1,12 +1,10 @@
 # SnapVault
 
-SnapVault is a photography client gallery platform designed to help photographers securely organize, manage, and deliver photo collections to clients through a modern web interface.
+A modern photo delivery platform for photographers and clients.
 
-The platform allows photographers to create galleries, upload images, and share professional viewing experiences with clients.
+![SnapVault Dashboard](main-dashboard.png)
 
-## Live Demo
-
-https://snapvault.base44.app
+🔗 **Live Demo:** https://snapvault.base44.app/
 
 ## Screenshots
 
@@ -27,44 +25,39 @@ https://snapvault.base44.app
 
 ## Features
 
-* Create and manage client galleries
-* Upload and organize photo collections
-* Client-facing gallery viewing interface
-* Clean dashboard for photographers
-* Responsive modern gallery layout
-* Simple sharing workflow for photo delivery
+- 📂 Create and manage client galleries
+- 🖼 Upload and organize photo collections
+- 🔗 Share galleries with clients
+- 👁 Client preview interface
+- 📱 Responsive design for mobile viewing
+- ⚡ Fast gallery loading experience
 
-## Architecture
+## System Architecture
 
-SnapVault was built using an AI-assisted development platform (Base44) which provides integrated backend services including:
+SnapVault follows a typical modern web application architecture.
 
-* database infrastructure
-* API generation
-* image storage
-* deployment hosting
+Frontend
+- React-based UI
+- Client gallery interface
+- Dashboard management system
 
-The application follows a typical web application architecture.
+Backend
+- Base44 backend infrastructure
+- Automatic API generation
+- Image storage and database management
 
-### Frontend
+Deployment
+- Hosted through Base44 cloud infrastructure
 
-* React-based UI components
-* Responsive gallery layout
-* Dashboard interface for gallery management
+## Roadmap
 
-### Backend
+Planned improvements:
 
-* Base44 backend infrastructure
-* Data models for galleries and images
-* Image storage and retrieval system
-
-## Future Improvements
-
-* Client authentication system
-* Image downloads
-* Photo favorites / likes
-* Watermark protection
-* Payment integration for photographers
-* Analytics dashboard
+- Client authentication
+- Downloadable photo collections
+- Password protected galleries
+- Watermark protection
+- Photographer analytics dashboard
 
 ## Author
 
