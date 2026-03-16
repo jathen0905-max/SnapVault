@@ -59,6 +59,4 @@ Planned improvements:
 
 ## Author
 
-Jathen Velautham
-Computer Engineering Student
-Founder of JNV Productions
+Jathen Velautham || 3rd Year Computer Engineering Student @ TMU || Founder of JNV Productions
