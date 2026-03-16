@@ -8,6 +8,23 @@ The platform allows photographers to create galleries, upload images, and share 
 
 https://snapvault.base44.app
 
+## Screenshots
+
+### Main Dashboard
+![Dashboard](screenshots/main-dashboard.png)
+
+### Login Page
+![Login](screenshots/login-page.png)
+
+### Gallery View
+![Gallery](screenshots/gallery.png)
+
+### Client Preview
+![Client Preview](screenshots/client-preview.png)
+
+### Gallery Sharing
+![Sharing](screenshots/gallery-sharing.png)
+
 ## Features
 
 * Create and manage client galleries
