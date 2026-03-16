@@ -2,7 +2,7 @@
 
 A modern photography client gallery platform for securely organizing, managing, and delivering photo collections to clients.
 
-🔗 **Live Demo:** [SnapVault](https://lensflow.base44.app/)
+🔗 **Live Demo:** [SnapVault](https://snapvault.base44.app/)
 
 ## Screenshots
 
