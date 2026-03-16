@@ -17,16 +17,6 @@ https://snapvault.base44.app
 * Responsive modern gallery layout
 * Simple sharing workflow for photo delivery
 
-## Screenshots
-
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### Gallery View
-
-![Gallery](screenshots/gallery.png)
-
 ## Architecture
 
 SnapVault was built using an AI-assisted development platform (Base44) which provides integrated backend services including:
