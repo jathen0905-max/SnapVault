@@ -11,19 +11,19 @@ https://snapvault.base44.app
 ## Screenshots
 
 ### Main Dashboard
-![Dashboard](screenshots/main-dashboard.png)
+![Main Dashboard](main-dashboard.png)
 
 ### Login Page
-![Login](screenshots/login-page.png)
+![Login Page](login-page.png)
 
-### Gallery View
-![Gallery](screenshots/gallery.png)
+### Gallery
+![Gallery](gallery.png)
 
 ### Client Preview
-![Client Preview](screenshots/client-preview.png)
+![Client Preview](client-preview.png)
 
 ### Gallery Sharing
-![Sharing](screenshots/gallery-sharing.png)
+![Gallery Sharing](gallery-sharing.png)
 
 ## Features
 
